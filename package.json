@@ -28,7 +28,7 @@
         "prettier": "^1.19.1"
     },
     "dependencies": {
-        "json-rules": "github:CriminalInjuriesCompensationAuthority/json-rules#v1.0.0",
+        "json-rules": "github:CriminalInjuriesCompensationAuthority/json-rules#bug/task-list/undefined-not-false",
         "moment": "^2.24.0"
     }
 }
