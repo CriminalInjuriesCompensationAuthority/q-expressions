@@ -1,6 +1,6 @@
 {
     "name": "q-expressions",
-    "version": "1.1.2",
+    "version": "2.0.0-alpha",
     "description": "Evaluates JSON expressions",
     "main": "lib/index.js",
     "engines": {
