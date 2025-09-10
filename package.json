@@ -28,7 +28,7 @@
         "prettier": "^1.19.1"
     },
     "dependencies": {
-        "json-rules-no-undefined": "github:CriminalInjuriesCompensationAuthority/json-rules#v2.0.0",
+        "json-rules": "github:CriminalInjuriesCompensationAuthority/json-rules#semver:2.0.0",
         "moment": "^2.24.0"
     }
 }
